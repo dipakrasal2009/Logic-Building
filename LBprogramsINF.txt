@@ -1,0 +1,44 @@
+Logic Buildings all files information
+
+
+program1 : first lb program to print jay janesh....
+
+program 2 : using function to print jay ganesh.
+
+program 3 : Addition two numbers
+
+program 4 : enter the numbers from user and addition that numbers
+
+program 5 : enter the number from user and print that number
+
+program 6 : enter the number and mulitiplay that number
+
+program 7 : Multiplication using function
+
+program 8 : enter the number from user and check wether the number is divisible by5 or not
+
+program 9 : divisible by five
+
+program 10 : Divisible by five
+
+program 11 : divisible by three and five
+
+program 12 : divisible by three and five
+
+progam 13 : divisible by three and five
+
+program 14 : printf jay ganesh in five times
+
+program 15 : using function print jay ganesh in five times
+
+start for the Itearation for while dowhile
+
+program 16&17 : print jay ganesh using for loop 
+
+program 18&19 : printjay ganesh in while loop
+
+program 20 : display 1 to 5 numbers
+
+
+
+
